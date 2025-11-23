@@ -1,0 +1,8 @@
+asgiref==3.9.0
+Django==5.2.3
+django-cors-headers==4.7.0
+django-restframework==0.0.1
+djangorestframework==3.16.0
+mysqlclient==2.2.7
+pillow==11.3.0
+sqlparse==0.5.3
